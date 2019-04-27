@@ -1,0 +1,58 @@
+
+{
+  "projects": [
+      {
+      "id" : "0",
+      "project_name" :  "Random Quote Generator",
+      "description" : "A client-side web application that pulls a random quote from a seperate file, styles, and displays it to the screen",
+      "technologies" : ["JavaScript", "HTML", "CSS"],
+      "live_link" : "",
+      "github_link" : "https://github.com/kilcorse-michael/Unit-1-Project-Quote-Generator/tree/master",
+      "image_urls" : ["/Users/AnticksGerm/Documents/static_node_and_express_site-v1/public/img/project_screen_shot/Star_Trek_quoteGenerator.png"]
+    },
+
+    {
+      "id" : "1",
+      "project_name" : "Student Directory",
+      "description" : "A dynamic student directory designed to display ten students at a time and create pagination links for any number of students",
+      "technologies" : ["JavaScript", "HTML", "CSS"],
+      "live_link" : "",
+      "github_link" : "https://github.com/kilcorse-michael/list_pagination_and_filtering-v1",
+      "image_urls" : ["img/project_screen_shot/List_pagination_TOP.46.53 PM.png", "img/project_screen_shot/List_Pagination_BOTTOM.48.56 PM.png"]
+
+    },
+
+    {
+      "id" : "2",
+      "project_name" : "Interactive Form",
+      "description" : "",
+      "technologies" : ["JavaScript", "JQuery", "HTML", "CSS"],
+      "live_link" : "",
+      "github_link" : "https://github.com/kilcorse-michael/interactive-form-v1",
+      "image_urls" : ["", "img/project_screen_shot/Interactive_Form_MIDDLE.56.23 PM.png", "img/project_screen_shot/Interactive_Form_BOTTOM.png"]
+
+    },
+
+    {
+      "id" : "3",
+      "project_name" : "OOP GAME",
+      "description" : "A game application designed to demonstrate Object-Oriented Programming with Constructor Classes ",
+      "technologies" : ["JavaScript", "HTML", "CSS"],
+      "live_link" : "",
+      "github_link" : "https://github.com/kilcorse-michael/oop_game-v2",
+      "image_urls" : ["img/project_screen_shot/OOP_Game_startScreen.png", "img/project_screen_shot/OOP_Begin.png", "img/project_screen_shot/OOP_Guess.png"]
+
+    },
+
+    {
+      "id" : "4",
+      "project_name" : "Employee Directory",
+      "description" : "An example employee directory that utilizes communication with a third-party API source for the employee data that is handled asynchronously then dynamically added to the application with a modular window containing additional information when the employee name is clicked.",
+      "technologies" : ["JavaScript", "JQuery", "HTML", "CSS"],
+      "live_link" : "",
+      "github_link" : "https://github.com/kilcorse-michael/public_api_request-v1",
+      "image_urls" : ["img/project_screen_shot/Employeee_Directory_Front.58.40 PM.png", "img/project_screen_shot/Employee_Directory_Search.png", "img/project_screen_shot/Employee_Directory_modularWindow.png"]
+
+    }
+  ]
+}
