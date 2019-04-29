@@ -21,3 +21,14 @@ app.get('/', (req, res)=>{
   });
 
 });
+
+app.get('/:id', (req, res)=>{
+  res.render('project', {
+    projects : jsonData.projects[req.params.id],
+    technologies : jsonData.projects[req.params.id].technologies
+  });
+});
+
+app.get('/about', (req, res)=>{
+  res.render('about');
+});

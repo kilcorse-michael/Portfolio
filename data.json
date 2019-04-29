@@ -8,7 +8,7 @@
       "technologies" : ["JavaScript", "HTML", "CSS"],
       "live_link" : "",
       "github_link" : "https://github.com/kilcorse-michael/Unit-1-Project-Quote-Generator/tree/master",
-      "image_urls" : ["/Users/AnticksGerm/Documents/static_node_and_express_site-v1/public/img/project_screen_shot/Star_Trek_quoteGenerator.png"]
+      "image_urls" : ["static/img/project_screen_shot/Star_Trek_quoteGenerator.png"]
     },
 
     {
@@ -18,7 +18,7 @@
       "technologies" : ["JavaScript", "HTML", "CSS"],
       "live_link" : "",
       "github_link" : "https://github.com/kilcorse-michael/list_pagination_and_filtering-v1",
-      "image_urls" : ["img/project_screen_shot/List_pagination_TOP.46.53 PM.png", "img/project_screen_shot/List_Pagination_BOTTOM.48.56 PM.png"]
+      "image_urls" : ["static/img/project_screen_shot/List_pagination_TOP.46.53 PM.png", "static/img/project_screen_shot/List_Pagination_BOTTOM.48.56 PM.png"]
 
     },
 
@@ -29,7 +29,7 @@
       "technologies" : ["JavaScript", "JQuery", "HTML", "CSS"],
       "live_link" : "",
       "github_link" : "https://github.com/kilcorse-michael/interactive-form-v1",
-      "image_urls" : ["", "img/project_screen_shot/Interactive_Form_MIDDLE.56.23 PM.png", "img/project_screen_shot/Interactive_Form_BOTTOM.png"]
+      "image_urls" : ["static/img/project_screen_shot/Interactive_form_TOP.jpg", "static/img/project_screen_shot/Interactive_Form_MIDDLE.56.23 PM.png", "static/img/project_screen_shot/Interactive_Form_BOTTOM.png"]
 
     },
 
@@ -40,7 +40,7 @@
       "technologies" : ["JavaScript", "HTML", "CSS"],
       "live_link" : "",
       "github_link" : "https://github.com/kilcorse-michael/oop_game-v2",
-      "image_urls" : ["img/project_screen_shot/OOP_Game_startScreen.png", "img/project_screen_shot/OOP_Begin.png", "img/project_screen_shot/OOP_Guess.png"]
+      "image_urls" : ["static/img/project_screen_shot/OOP_Game_startScreen.png", "static/img/project_screen_shot/OOP_Begin.png", "static/img/project_screen_shot/OOP_Guess.png"]
 
     },
 
@@ -51,7 +51,7 @@
       "technologies" : ["JavaScript", "JQuery", "HTML", "CSS"],
       "live_link" : "",
       "github_link" : "https://github.com/kilcorse-michael/public_api_request-v1",
-      "image_urls" : ["img/project_screen_shot/Employeee_Directory_Front.58.40 PM.png", "img/project_screen_shot/Employee_Directory_Search.png", "img/project_screen_shot/Employee_Directory_modularWindow.png"]
+      "image_urls" : ["static/img/project_screen_shot/Employeee_Directory_Front.58.40 PM.png", "static/img/project_screen_shot/Employee_Directory_Search.png", "static/img/project_screen_shot/Employee_Directory_modularWindow.png"]
 
     }
   ]
