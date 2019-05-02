@@ -22,13 +22,16 @@ app.get('/', (req, res)=>{
 
 });
 
+app.get('/about', (req, res)=>{
+  res.render('about');
+});
+
+
 app.get('/:id', (req, res)=>{
   res.render('project', {
     projects : jsonData.projects[req.params.id],
-    technologies : jsonData.projects[req.params.id].technologies
+    technologies : jsonData.projects[req.params.id].technologies,
+    gitHub : jsonData.projects[req.params.id].github_link,
+    projectImages : jsonData.projects[req.params.id].project_page_urls
   });
-});
-
-app.get('/about', (req, res)=>{
-  res.render('about');
 });
