@@ -17,7 +17,7 @@
       "project_name" : "Student Directory",
       "description" : "A dynamic student directory designed to display ten students at a time and create pagination links for any number of students",
       "technologies" : ["JavaScript", "HTML", "CSS"],
-      "live_link" : "",
+      "live_link" : "https://kilcorse-michael.github.io/list_pagination_and_filtering-v1/",
       "github_link" : "https://github.com/kilcorse-michael/list_pagination_and_filtering-v1",
       "image_urls" : ["static/img/project_screen_shot/List_pagination_TOP.46.53 PM.png", "static/img/project_screen_shot/List_Pagination_BOTTOM.48.56 PM.png"],
       "project_page_urls" : ["static/img/project_screen_shot/projects_page/student1.png", "static/img/project_screen_shot/projects_page/student2.png"]
@@ -29,7 +29,7 @@
       "project_name" : "Interactive Form",
       "description" : "",
       "technologies" : ["JavaScript", "JQuery", "HTML", "CSS"],
-      "live_link" : "",
+      "live_link" : "https://kilcorse-michael.github.io/interactive-form-v1/index.html",
       "github_link" : "https://github.com/kilcorse-michael/interactive-form-v1",
       "image_urls" : ["static/img/project_screen_shot/Interactive_form_TOP.jpg"],
       "project_page_urls" : ["static/img/project_screen_shot/projects_page/form1.png", "static/img/project_screen_shot/projects_page/form2.png", "static/img/project_screen_shot/projects_page/form3.png", "static/img/project_screen_shot/projects_page/form4.png"]
@@ -41,7 +41,7 @@
       "project_name" : "OOP GAME",
       "description" : "A game application designed to demonstrate Object-Oriented Programming with Constructor Classes ",
       "technologies" : ["JavaScript", "HTML", "CSS"],
-      "live_link" : "",
+      "live_link" : "https://kilcorse-michael.github.io/oop_game-v2/",
       "github_link" : "https://github.com/kilcorse-michael/oop_game-v2",
       "image_urls" : ["static/img/project_screen_shot/OOP_Game_startScreen.png"],
       "project_page_urls" : ["static/img/project_screen_shot/projects_page/game1.png", "static/img/project_screen_shot/projects_page/game2.png", "static/img/project_screen_shot/projects_page/game3.png", "static/img/project_screen_shot/projects_page/game4.png", "static/img/project_screen_shot/projects_page/game5.png"]
@@ -53,7 +53,7 @@
       "project_name" : "Employee Directory",
       "description" : "An example employee directory that utilizes communication with a third-party API source for the employee data that is handled asynchronously then dynamically added to the application with a modular window containing additional information when the employee name is clicked.",
       "technologies" : ["JavaScript", "JQuery", "HTML", "CSS"],
-      "live_link" : "",
+      "live_link" : "https://kilcorse-michael.github.io/public_api_request-v1/",
       "github_link" : "https://github.com/kilcorse-michael/public_api_request-v1",
       "image_urls" : ["static/img/project_screen_shot/Employeee_Directory_Front.58.40 PM.png"],
       "project_page_urls" : ["static/img/project_screen_shot/projects_page/directory1.png", "static/img/project_screen_shot/projects_page/directory2.png", "static/img/project_screen_shot/projects_page/directory3.png"]
