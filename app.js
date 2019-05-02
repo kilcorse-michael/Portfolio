@@ -32,6 +32,7 @@ app.get('/:id', (req, res)=>{
     projects : jsonData.projects[req.params.id],
     technologies : jsonData.projects[req.params.id].technologies,
     gitHub : jsonData.projects[req.params.id].github_link,
-    projectImages : jsonData.projects[req.params.id].project_page_urls
+    projectImages : jsonData.projects[req.params.id].project_page_urls,
+    liveLink : jsonData.projects[req.params.id].live_link
   });
 });

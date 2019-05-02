@@ -6,7 +6,7 @@
       "project_name" :  "Random Quote Generator",
       "description" : "A client-side web application that pulls a random quote from a seperate file, styles, and displays it to the screen",
       "technologies" : ["JavaScript", "HTML", "CSS"],
-      "live_link" : "",
+      "live_link" : "https://kilcorse-michael.github.io/Star-Trek-Quote-Generator/a_random_quote_generator-v1/",
       "github_link" : "https://github.com/kilcorse-michael/Unit-1-Project-Quote-Generator/tree/master",
       "image_urls" : ["static/img/project_screen_shot/Star_Trek_quoteGenerator.png"],
       "project_page_urls" : [ "static/img/project_screen_shot/projects_page/quotepic1.png", "static/img/project_screen_shot/projects_page/quotepic2.png", "static/img/project_screen_shot/projects_page/quotepic3.png"]
