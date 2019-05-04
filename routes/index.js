@@ -18,11 +18,7 @@ router.get('/about', (req, res)=>{
 
 router.get('/:id', (req, res)=>{
   res.render('project', {
-    projects : jsonData.projects[req.params.id],
-    technologies : jsonData.projects[req.params.id].technologies,
-    gitHub : jsonData.projects[req.params.id].github_link,
-    projectImages : jsonData.projects[req.params.id].project_page_urls,
-    liveLink : jsonData.projects[req.params.id].live_link
+    projects : jsonData.projects[req.params.id]
   });
 });
 
