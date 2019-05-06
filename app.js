@@ -26,6 +26,4 @@ app.use((err, req, res, next) => {
   res.render('error');
 });
 
-app.listen(port, function(){
-  console.log('Server running on port: 3000');
-});
+app.listen(process.env.PORT);
