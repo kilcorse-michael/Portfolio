@@ -11,7 +11,7 @@ const routes = require('./routes')
 
 app.set('view engine', 'pug');
 app.use('/static', express.static(path.join(__dirname, 'public')));
-app.use('/static/img', express.static(path.join(__dirname, 'img')));
+app.use('/projects/static/img', express.static(path.join(__dirname, 'img')));
 app.use(routes);
 
 app.use((req, res, next) => {
