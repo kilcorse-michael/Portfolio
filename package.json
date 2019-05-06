@@ -4,7 +4,6 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,5 +12,9 @@
   "dependencies": {
     "express": "^4.16.4",
     "pug": "^2.0.3"
+  },
+  "engines" : {
+    "node" : "10.x"
+  }
   }
 }
