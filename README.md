@@ -16,3 +16,5 @@ My additional resources were pulled from
 
 error clipart from https://pixabay.com/vectors/broken-computer-emoticon-smiley-153601/;
 a package called animate.css by daneden gitHub- https://github.com/daneden/animate.css;
+
+after starting with "npm start" access the app by going to localhost:5000 in your browser.
