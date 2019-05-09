@@ -1,11 +1,19 @@
-
+body{
+  background: skyblue;
+}
 h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
 }
 
+  h1{
+    color: white;
+    text-shadow: 2px 2px 8px grey;
+  }
+
   h5{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 2.5px;
+    color: white;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
   }
@@ -46,32 +54,33 @@ a:hover{
   color: #111;
 }
 
+
 .image{
   display: inline-block;
   max-width: 100%;
   margin-bottom: 1rem;
   border: solid 4px #fefefe;
-  border-radius: 0;
+  border-radius: 5%;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
 }
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
-  color: #fff;
+  background: teal;
+  color: white;
   box-shadow: none !important;
 }
 
   .portfolio-me p{
     font-size: 14px;
-    color: #999;
+    color: white;
   }
 
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: #555;
+    color: lightskyblue;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -86,6 +95,7 @@ a:hover{
   margin: 0;
   padding: 20px;
   border-bottom: 1px solid #eaeaea;
+  background: skyblue;
 }
 
  .portfolio-breadcrumb a{
@@ -95,11 +105,13 @@ a:hover{
    letter-spacing: 2.5px;
    -webkit-text-transform: uppercase;
    text-transform: uppercase;
+   background: skyblue;
  }
 
 .portfolio-intro{
   margin: 0;
   padding: 40px 50px 30px;
+  background: skyblue;
 }
 
 .portfolio-intro p{
@@ -110,10 +122,12 @@ a:hover{
 .portfolio-index{
   margin: 0;
   padding: 10px 50px;
+  background: skyblue;
 }
 
   .portfolio-index .thumbnail{
     margin-bottom: 5px;
+    border-radius: 5%;
   }
 
   .portfolio-index a{

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-html(class="no-js" lang="en" dir="ltr")
+html(class="no-js animated fadeIn" lang="en" dir="ltr")
   head
     meta(charset='utf-8')
     meta(http-equiv='x-ua-compatible', content='ie=edge')
@@ -8,23 +8,23 @@ html(class="no-js" lang="en" dir="ltr")
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
+    //- animate.css by daneden GitHub page url -- https://github.com/daneden/animate.css
+    link(rel='stylesheet', href='/static/css/animate.css')
   body
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='/projects/static/img/IMG_2941.jpg')
+            img.thumbnail(src='/projects/static/img/IMG_3003.jpg')
           .cell.auto
 
-            //- Add your name here.
             h5 Michael A. Kilcorse
 
-            //- Add text here to describe who you are, what you do, and why you are so aweome.
             p.text-light
               | Dedicated, hard working, and success driven, I am a web developer and life-long learner seeking a position within a company where I will be able to prove myself as a valuable asset to any department.
 
-            //- Add about page route to the href below. 
+            
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -32,7 +32,6 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
           span.title-bar-title Michael A. Kilcorse
       block content
         
