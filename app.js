@@ -5,7 +5,7 @@ const fs = require("fs");
 const contents = fs.readFileSync("data.json");
 const jsonData = JSON.parse(contents);
 const path = require('path');
-const port = process.env.PORT;
+const port = process.env.PORT || 5000;
 const routes = require('./routes')
 
 
