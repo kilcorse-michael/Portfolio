@@ -1,19 +1,18 @@
 body{
-  background: skyblue;
+  background: white;
 }
 h1,h2,h3,h4,h5,p{
   font-family: 'Merriweather', serif;
 }
 
   h1{
-    color: white;
-    text-shadow: 2px 2px 8px grey;
+    color: black;
   }
 
   h5{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     letter-spacing: 2.5px;
-    color: white;
+    color: black;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
   }
@@ -67,7 +66,7 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: teal;
+  background: grey;
   color: white;
   box-shadow: none !important;
 }
@@ -80,7 +79,7 @@ a:hover{
   .portfolio-me a{
     font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-weight: 600;
-    color: lightskyblue;
+    color: skyblue;
     font-size: 13px;
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
@@ -95,7 +94,7 @@ a:hover{
   margin: 0;
   padding: 20px;
   border-bottom: 1px solid #eaeaea;
-  background: skyblue;
+  background: white;
 }
 
  .portfolio-breadcrumb a{
@@ -105,13 +104,13 @@ a:hover{
    letter-spacing: 2.5px;
    -webkit-text-transform: uppercase;
    text-transform: uppercase;
-   background: skyblue;
+   background: white;
  }
 
 .portfolio-intro{
   margin: 0;
   padding: 40px 50px 30px;
-  background: skyblue;
+  background: white;
 }
 
 .portfolio-intro p{
@@ -122,7 +121,7 @@ a:hover{
 .portfolio-index{
   margin: 0;
   padding: 10px 50px;
-  background: skyblue;
+  background: white;
 }
 
   .portfolio-index .thumbnail{

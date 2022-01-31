@@ -2383,7 +2383,8 @@ kbd {
 
 .lead {
   font-size: 125%;
-  line-height: 1.6; }
+  line-height: 1.6;
+  color: darkolivegreen; }
 
 .stat {
   font-size: 2.5rem;
