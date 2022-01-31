@@ -20,7 +20,11 @@ block content
           li= technology
 
         a.button.expanded(target='_blank' href=`${projects.live_link}`) Live Demo
-        a.button.expanded(target='_blank' href=`${projects.github_link}`) GitHub Repo
+        if projects.github_link
+          a.button.expanded(target='_blank' href=`${projects.github_link}`) GitHub Repo
+        else
+          p. 
+            X (private repository for employer)
     
     each projectImage in projects.project_page_urls
         img.image(src= projectImage)
