@@ -1,15 +1,15 @@
 
 {
   "projects": [
-      {
+    {
       "id" : "0",
-      "project_name" :  "Random Quote Generator",
-      "description" : "A client-side web application that pulls a random quote from a seperate file, styles, and displays it to the screen",
-      "technologies" : ["JavaScript", "HTML", "CSS"],
-      "live_link" : "https://kilcorse-michael.github.io/Star-Trek-Quote-Generator/a_random_quote_generator-v1/",
-      "github_link" : "https://github.com/kilcorse-michael/Unit-1-Project-Quote-Generator/tree/master",
-      "image_urls" : ["static/img/project_screen_shot/Star_Trek_quoteGenerator.png"],
-      "project_page_urls" : [ "static/img/project_screen_shot/projects_page/quotepic1.png", "static/img/project_screen_shot/projects_page/quotepic2.png", "static/img/project_screen_shot/projects_page/quotepic3.png"]
+      "project_name" : "Scheduling Application",
+      "description" : "This application was built for my employer to deal with scheduling limited numbers of people in accordance with the pandemic restrictions. Scheduling blocks were added allowing individuals to sign up for a time slot. After completeing all fields and submitting they were automatically sent an SMS message confirming their appointment.",
+      "technologies" : ["JavaScript", "ReactJS", "Material-UI", "Axios", "Cookies", "Express", "MongoDB/Mongoose"],
+      "live_link" : "https://diamondisadiamond.com/",
+      "image_urls" : ["static/img/project_screen_shot/schedule_app_1.png"],
+      "project_page_urls" : ["static/img/project_screen_shot/schedule_app_1.png", "static/img/project_screen_shot/schedule_app_2.png", "static/img/project_screen_shot/schedule_app_3.png"]
+
     },
 
     {
@@ -59,15 +59,17 @@
       "project_page_urls" : ["static/img/project_screen_shot/projects_page/directory1.png", "static/img/project_screen_shot/projects_page/directory2.png", "static/img/project_screen_shot/projects_page/directory3.png"]
 
     },
-    {
-      "id" : "5",
-      "project_name" : "Scheduling Application",
-      "description" : "This application was built for my employer to deal with scheduling limited numbers of people in accordance with the pandemic restrictions. Scheduling blocks were added allowing individuals to sign up for a time slot. After completeing all fields and submitting they were automatically sent an SMS message confirming their appointment.",
-      "technologies" : ["JavaScript", "ReactJS", "Material-UI", "Axios", "Cookies", "Express", "MongoDB/Mongoose"],
-      "live_link" : "https://diamondisadiamond.com/",
-      "image_urls" : ["static/img/project_screen_shot/schedule_app_1.png"],
-      "project_page_urls" : ["static/img/project_screen_shot/schedule_app_1.png", "static/img/project_screen_shot/schedule_app_2.png", "static/img/project_screen_shot/schedule_app_3.png"]
 
-    }
+    {
+    "id" : "5",
+    "project_name" :  "Random Quote Generator",
+    "description" : "A client-side web application that pulls a random quote from a seperate file, styles, and displays it to the screen",
+    "technologies" : ["JavaScript", "HTML", "CSS"],
+    "live_link" : "https://kilcorse-michael.github.io/Star-Trek-Quote-Generator/a_random_quote_generator-v1/",
+    "github_link" : "https://github.com/kilcorse-michael/Unit-1-Project-Quote-Generator/tree/master",
+    "image_urls" : ["static/img/project_screen_shot/Star_Trek_quoteGenerator.png"],
+    "project_page_urls" : [ "static/img/project_screen_shot/projects_page/quotepic1.png", "static/img/project_screen_shot/projects_page/quotepic2.png", "static/img/project_screen_shot/projects_page/quotepic3.png"]
+  }
+
   ]
 }
